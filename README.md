@@ -46,46 +46,11 @@
 
 ## 🛠️ 기술 스택
 
-<div style="display: flex; justify-content: space-around;">
-  <div align="center">
-  	<img src="README/assets/react.png" width="60%">
-    <p>Web</p>
-  </div>
-  <div align="center">
-  	<img src="README/assets/fastapi.png" width="60%">
-    <p>Back-End</p>
-  </div>
-  <div align="center">
-  	<img src="README/assets/flutter.png" width="60%">
-    <p>App</p>
-  </div>
-</div>
-<div style="display: flex; justify-content: space-around;">
-  <div align="center">
-  	<img src="README/assets/pytorch.png" width="40%">
-    <p>Pytorch</p>
-  </div>
-  <div align="center">
-  	<img src="README/assets/tensorflow.png" width="40%">
-    <p>Tensorflow</p>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-<div style="display: flex; justify-content: space-around;">
-  <div align="center">
-  	<img src="README/assets/s3.png" width="60%">
-    <p>AWS S3</p>
-  </div>
-  <div align="center">
-  	<img src="README/assets/lightsail.png" width="60%">
-    <p>AWS Lightsail</p>
-  </div>
-  <div align="center">
-  	<img src="README/assets/docker.png" width="60%">
-    <p>Docker</p>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"><img src="https://img.shields.io/badge/LightSail-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 
 
